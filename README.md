@@ -30,7 +30,7 @@ This project demonstrates how conversational AI can automate basic support inter
 ---
 ### 📸 Chatbot Flow Overview
 
-[View Chatbot Flow Image](chatbot_images/overview.png)
+![View Chatbot Flow Image](chatbot_images/overview.png)
 
 ---
 
